@@ -1,0 +1,24 @@
+{
+  "name": "obj-value",
+  "version": "1.0.0",
+  "description": "转换一个对象的value值",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiufeihai/obj-value.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiufeihai/obj-value/issues"
+  },
+  "homepage": "https://github.com/qiufeihai/obj-value#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "power-assert": "^1.6.1"
+  }
+}
