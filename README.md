@@ -1,4 +1,4 @@
-# ovj-val
+# 4obj-value
 
 > 转换一个对象的value值，源对象不变
 
@@ -6,14 +6,14 @@
 ## Install
 
 ```
-$ npm install ovj-val
+$ npm install 4obj-value
 ```
 
 
 ## Usage
 
 ```js
-const objValue = require('ovj-val');
+const objValue = require('4obj-value');
 
 objValue({a: 1}, {a: String}) // 对象方式映射
 //=> {a: '1'}
