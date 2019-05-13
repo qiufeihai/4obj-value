@@ -1,5 +1,5 @@
 {
-  "name": "obj-value",
+  "name": "ovj-val",
   "version": "1.0.0",
   "description": "转换一个对象的value值",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qiufeihai/obj-value.git"
+    "url": "git+https://github.com/qiufeihai/ovj-val.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/qiufeihai/obj-value/issues"
+    "url": "https://github.com/qiufeihai/ovj-val/issues"
   },
-  "homepage": "https://github.com/qiufeihai/obj-value#readme",
+  "homepage": "https://github.com/qiufeihai/ovj-val#readme",
   "dependencies": {},
   "devDependencies": {
     "power-assert": "^1.6.1"

@@ -1,7 +1,4 @@
 const objValue = require('../index');
-const camelCase = require('../index').camelCase;
-const CamelCase = require('../index').CamelCase;
-const decamelize = require('../index').decamelize;
 const assert = require('power-assert');
 describe('test', () => {
   it('参数1空', () => {
